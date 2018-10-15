@@ -1,0 +1,26 @@
+html,body,head{
+	
+    display: table;
+	padding:0;
+	margin: 0;
+}
+.bk{
+	height: 100vh;
+	width:200vh;
+	background-image: url(minimalist-nature-wallpaper-15.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: table-cell;
+	
+	text-align: center;
+	vertical-align: middle;
+	color: #fff;
+	font-family: 'Pacifico', cursive;
+	font-size: 100px;
+	font-weight: lighter;
+}
+#toDateS{
+	font-size: 40px;
+	font-weight: lighter;
+}
